@@ -1,0 +1,5 @@
+1. Añadir los archivos de los controladores y de configuración al repositorio
+2. Modificar el archivo config.php con los credenciales y hosts de la base de datos
+3. Commitear y pushear los cambios al repositorio
+
+URL: http://www.alessrodrgz.com.mialias.net/alimentos/master/web/
